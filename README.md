@@ -11,6 +11,9 @@
 ## Login & Register page, auth
 ![image](https://github.com/ShoyimObloqulov/online-market/assets/92427513/e033a902-e044-45c6-bca1-aa92347bcccc)
 
+![image](https://github.com/ShoyimObloqulov/online-market/assets/92427513/9164f83b-25c5-4616-aad5-602511062ec0)
+
+
 ## Admin dashboard
 ![image](https://github.com/ShoyimObloqulov/online-market/assets/92427513/48ae52d7-1810-4401-8603-33643e0c1eca)
 
