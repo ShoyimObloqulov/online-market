@@ -1,6 +1,9 @@
 # Online-market
 ## Project installing step
 <code>git clone https://github.com/ShoyimObloqulov/online-market</code>
+### Foydalanish uchun link 
+<code>http://samdu.lifepc.uz/</code>
+
 ### Project About
 <p>Bu platforma maxshulotlarni joylashtirish va sotish mumkin, online dokon dasturi.</p>
 
