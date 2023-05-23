@@ -8,7 +8,7 @@
             </ul>
 
             <ul class="center hide-on-large-only">
-                <li><a href="index" class="dark-text">E-Commerce</a></li>
+                <li><a href="index" class="dark-text">Do'kon</a></li>
 
             </ul>
 

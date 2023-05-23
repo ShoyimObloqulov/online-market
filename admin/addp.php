@@ -54,12 +54,12 @@ else {
                 <div class="input-field col s12">
                     <i class="material-icons prefix">mode_edit</i>
                     <textarea id="icon_prefix2" class="materialize-textarea" name="description"></textarea>
-                    <label for="icon_prefix2">Description</label>
+                    <label for="icon_prefix2">Malumot</label>
                 </div>
 
                 <div class="file-field input-field col s6">
                     <div class="btn blue">
-                        <span>Thumbnail</span>
+                        <span>Eskiz</span>
                         <input type="file" name="thumbnail">
                     </div>
                     <div class="file-path-wrapper">
