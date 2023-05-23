@@ -1,4 +1,7 @@
 # Online-market
+## Project installing step
+<code>git clone https://github.com/ShoyimObloqulov/online-market</code>
+
 ## Product searching input
 ![image](https://github.com/ShoyimObloqulov/online-market/assets/92427513/a18050c6-0b85-4a5c-8dbf-395acc8c8c1e)
 
