@@ -1,0 +1,10 @@
+ErrorDocument 404 /404.php
+ErrorDocument 500 /500.php
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^.*$ $0.php [L,QSA]
+RewriteCond %{THE_REQUEST} ([^\s]*)\.php(\?[^\s]*)?
+RewriteRule (.*) %1 [R=301,L]
+php_value date.timezone 'Asia/Tashkent'

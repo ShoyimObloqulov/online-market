@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/shop.uz",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Shoyim Obloqulov",
+      "email": "obloqulovshoyim1@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-mysqli": "*"
+  }
+}
